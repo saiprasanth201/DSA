@@ -5,7 +5,7 @@
 ### Solving problems. Building consistency. Preparing for Software Engineering Placements.
 
 [![Language](https://img.shields.io/badge/Language-C++-blue.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-LeetCode-orange.svg)]()
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/saiprasanth201/)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 [![Goal](https://img.shields.io/badge/Goal-Software%20Engineering%20Placements-red.svg)]()
 
@@ -42,12 +42,13 @@ Every solution in this repository represents a concept learned, practiced, and i
 
 ---
 
-# 🌐 Platforms
+# 🌐 Coding Profiles
 
-- LeetCode
-- GeeksforGeeks
-- HackerRank
-- Take U Forward (A2Z DSA Sheet)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
+
+[![Take U Forward](https://img.shields.io/badge/Take%20U%20Forward-A2Z%20Profile-blue)](https://takeuforward.org/profile/saiprasanth201)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME)
 
 ---
 

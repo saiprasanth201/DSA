@@ -24,3 +24,6 @@ int main(){
     printSubsequences(0,ds,arr,n);
     return 0;
 }
+
+//TC : O(2^n * N) 2^n for number of subsequences and N for printing each subsequence.
+//SC : O(N) for recursion stack space and O(N) for ds vector.

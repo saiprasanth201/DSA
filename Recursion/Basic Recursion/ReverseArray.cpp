@@ -1,3 +1,4 @@
+Using recursion we can reverse an array in two different ways.
 //M1: Two pointer approach
 void reverse(int arr[], int left, int right)
 {

@@ -17,7 +17,7 @@
 
 Welcome to my **Data Structures & Algorithms** repository.
 
-This repository documents my journey of mastering Data Structures and Algorithms through consistent daily practice while preparing for **Software Engineering placements**.
+This repository documents my journey of mastering Data Structures and Algorithms through consistent daily practice while preparing for **Placements**.
 
 Instead of simply collecting solutions, my goal is to understand patterns, improve problem-solving ability, and build strong coding intuition for technical interviews.
 
@@ -98,7 +98,7 @@ DSA
 
 | Metric | Value |
 |--------|-------|
-| Problems Solved | **135+** |
+| Problems Solved | **140+** |
 | Language | **C++** |
 | Current Topic | **Recursion** |
 | Repository Status | **Actively Maintained** |

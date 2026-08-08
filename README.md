@@ -98,7 +98,7 @@ DSA
 
 | Metric | Value |
 |--------|-------|
-| Problems Solved | **145+** |
+| Problems Solved | **150+** |
 | Language | **C++** |
 | Current Topic | **Recursion** |
 | Repository Status | **Actively Maintained** |

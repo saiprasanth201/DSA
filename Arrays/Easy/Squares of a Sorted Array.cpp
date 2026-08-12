@@ -17,7 +17,7 @@ public:
     }
 };
 
-//Day 74
+//Day 74 - M2
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {

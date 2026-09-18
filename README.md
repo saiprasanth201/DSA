@@ -98,7 +98,7 @@ DSA
 
 | Metric | Value |
 |--------|-------|
-| Problems Solved | **195+** |
+| Problems Solved | **200+** |
 | Language | **C++** |
 | Current Topic | **Trees** |
 | Repository Status | **Actively Maintained** |

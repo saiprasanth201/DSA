@@ -1,4 +1,4 @@
-// LC Version:
+// LC Version 1:
 class Solution {
     public:
         void inorder(TreeNode*root,vector<int>&ans){
@@ -14,7 +14,7 @@ class Solution {
         }
     };
 
-// TUF Version :
+// TUF Version 2 :
 class Solution {
     public:
         void inorder(TreeNode*root,vector<int>&ans){
@@ -30,5 +30,4 @@ class Solution {
             return {ans[k-1],ans[n-k]};
         }
     };
-
-    Day 117 - Kth Smallest & Largest Elements of BST Solution
+    
